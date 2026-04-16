@@ -46,7 +46,6 @@ Incluye imagen, ingredientes, preparación, tiempo y valoración.
 Permite guardar y acceder rápidamente a recetas seleccionadas por el usuario.
 
 ![Favoritos](capturas%20de%20pantalla/favoritos.png)
-
 ---
 
 ### 🏆 Ranking
