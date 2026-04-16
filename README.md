@@ -24,35 +24,34 @@ Aplicación Android desarrollada en Kotlin que permite explorar recetas de disti
 ### 🏠 Pantalla principal
 Permite navegar entre categorías y acceder a favoritos y ranking.
 
-![Inicio](capturas%20de%20pantalla/inicio.png)
+![Inicio](screenshots/inicio.png)
 
 ---
 
 ### 📋 Listado de recetas
 Muestra recetas según la categoría seleccionada con opción de búsqueda.
 
-![Listado](capturas%20de%20pantalla/listado.png)
+![Listado](screenshots/listado.png)
 
 ---
 
 ### 📖 Detalle de receta
 Incluye imagen, ingredientes, preparación, tiempo y valoración.
 
-![Detalle](capturas%20de%20pantalla/detalle.png)
+![Detalle](screenshots/detalle.png)
 
 ---
 
 ### ❤️ Favoritos
 Permite guardar y acceder rápidamente a recetas seleccionadas por el usuario.
 
-![Favoritos](capturas%20de%20pantalla/favoritos.png)
+![Favoritos](screenshots/favoritos.png)
 ---
 
 ### 🏆 Ranking
 Muestra las recetas mejor valoradas por los usuarios.
 
-![Ranking](capturas%20de%20pantalla/ranking.png)
-
+![Ranking](screenshots/ranking.png)
 ---
 
 ## 🛠️ Tecnologías utilizadas
